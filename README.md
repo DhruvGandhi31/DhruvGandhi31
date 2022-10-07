@@ -1,5 +1,5 @@
 - 👋 Hi, I am Dhruv Gandhi, first year student at IIIT Vadodara studying Computer Science and Engineering
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Flutter and advanced Python
 - 💻 I'm a tech enthusiast 
 - 📫 How to reach me: dhruvvgandhi3110@gmail.com
 
