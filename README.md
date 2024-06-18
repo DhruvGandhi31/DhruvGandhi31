@@ -1,4 +1,4 @@
-- 👋 Hi, I am Dhruv Gandhi, second year student at IIIT Vadodara studying Computer Science and Engineering.
+- 👋 Hi, I am Dhruv Gandhi, final year student at IIIT Vadodara studying Computer Science and Engineering.
 - 🌱 I love to develop mobile applications using flutter framework.
 - ✨ I have a keen interest in Python and machine learning.
 - 🎇 I am also proficient in C++ and Java.
