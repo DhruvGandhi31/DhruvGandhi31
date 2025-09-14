@@ -1,8 +1,8 @@
-- 👋 Hi, I am Dhruv Gandhi, final year student at IIIT Vadodara studying Computer Science and Engineering.
-- 🌱 I like to work on complex challenges and real-world problems.
-- ✨ I have a keen interest in Python and machine learning.
-- 🎇 I am also proficient in C and Java.
-- 💻 I'm always keen on contributing to open-source projects and learning new things in the world of software development.
+- 👋 Yahello!! It’s Dhruv Gandhi, a kindred spirit who enjoys making life harder by turning simple problems into complex ones.
+- 🌱 I thrive on tackling intricate challenges in Machine Learning and MLOps.
+- ✨ I craft systems that flow effortlessly, pushing boundaries and turning every line of code into a seamless blend of performance and innovation.
+- 🎇 I believe in Agile methodologies as a foundation for continuous improvement, collaboration, and delivering high-quality solutions efficiently.
+- 💻 I'm always keen on making and contributing to open-source projects.
 - 📫 How to reach me: dhruvvgandhi3110@gmail.com
 
 <!---
